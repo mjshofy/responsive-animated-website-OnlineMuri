@@ -1,0 +1,11 @@
+/* adding google font ----------**---------- */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+/* base style ----------**---------- */
+:root {
+  --clr-primary: #f89954;
+  --clr-dark: #4d2d10;
+  --clr-black: #000000;
+  --clr-light: #ffeddc;
+  --clr-white: #fff5ed;
+}
